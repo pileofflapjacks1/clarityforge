@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_SITE_URL ?? "https://clarityforge.vercel.app",
+    process.env.NEXT_PUBLIC_SITE_URL ?? "https://clarityforge-gamma.vercel.app",
   ),
   title: "ClarityForge — BCI paper-trading companion",
   description:

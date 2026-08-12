@@ -16,10 +16,11 @@
 - [x] Review fixes: fatigue drift, OCO brackets, IOC/limit pricing, later-fill heuristics, import validation
 - [x] First commit + GitHub `pileofflapjacks1/clarityforge`
 
-## Next (after a host exists)
+- [x] Vercel deploy → `https://clarityforge-gamma.vercel.app`
+- [x] Absolute URLs in LISTING + manifest
+- [x] Seed NeuraBeach `col-neura-suite` (`seed-proj-clarityforge`)
 
-- [ ] Vercel deploy → patch absolute URLs in LISTING + manifest
-- [ ] Seed NeuraBeach `col-neura-suite` (only when asked)
+## Later
 
 ## Later
 

@@ -1,8 +1,8 @@
 # NeuraBeach listing copy (ClarityForge)
 
-**Source of truth for catalog re-seed.** Keep in sync with NeuraBeach seed for collection `col-neura-suite` (e.g. `seed-proj-clarityforge` when added).
+**Source of truth for catalog re-seed.** Keep in sync with NeuraBeach seed for collection `col-neura-suite` (`seed-proj-clarityforge`).
 
-> **Host note:** Planned first deploy hostname is `clarityforge.vercel.app`. If Vercel assigns a different URL, replace it everywhere below + in `neurabeach-manifest.json` before re-seeding Beach. Do not invent a live URL before deploy.
+> **Host:** Production is `https://clarityforge-gamma.vercel.app`. `clarityforge.vercel.app` is already taken on Vercel.
 
 | Field | Value |
 |-------|--------|
@@ -16,11 +16,11 @@
 | **Depends on** | `[]` (optional soft Neurabridge later) |
 | **License** | MIT |
 | **GitHub** | https://github.com/pileofflapjacks1/clarityforge |
-| **Live demo** | *(set after first deploy)* `/demo` |
-| **Dashboard** | `/` |
-| **A11y** | `/a11y` |
-| **Disclaimer** | `/disclaimer` |
-| **How it works** | `/how-it-works` |
+| **Live demo** | https://clarityforge-gamma.vercel.app/demo |
+| **Dashboard** | https://clarityforge-gamma.vercel.app/ |
+| **A11y** | https://clarityforge-gamma.vercel.app/a11y |
+| **Disclaimer** | https://clarityforge-gamma.vercel.app/disclaimer |
+| **How it works** | https://clarityforge-gamma.vercel.app/how-it-works |
 | **Entrypoint** | same as live demo `/demo` |
 | **Manifest** | `neurabeach-manifest.json` in repo root |
 | **safety_class** | `computer_side` |
@@ -40,15 +40,15 @@
 
 ---
 
-## Screenshots (paths; prefix with the live host after deploy)
+## Screenshots (public absolute URLs)
 
 ```
-/screenshots/01-desk.svg
-/screenshots/02-quality.svg
-/screenshots/03-demo.svg
-/screenshots/04-settings.svg
-/screenshots/05-a11y.svg
-/og.svg
+https://clarityforge-gamma.vercel.app/screenshots/01-desk.svg
+https://clarityforge-gamma.vercel.app/screenshots/02-quality.svg
+https://clarityforge-gamma.vercel.app/screenshots/03-demo.svg
+https://clarityforge-gamma.vercel.app/screenshots/04-settings.svg
+https://clarityforge-gamma.vercel.app/screenshots/05-a11y.svg
+https://clarityforge-gamma.vercel.app/og.svg
 ```
 
 | Asset | Content |

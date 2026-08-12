@@ -4,7 +4,7 @@ Simulator-first, computer-side **BCI trading companion**. It watches mock cognit
 
 **Research / simulation only.** Not a medical device. Not implant software. Not a brokerage. Not financial advice. Not affiliated with Neuralink.
 
-Part of the [Neura suite](https://neurabeach.com/collections/col-neura-suite) — intended for a future NeuraBeach listing.
+Part of the [Neura suite](https://neurabeach.com/collections/col-neura-suite).
 
 ## What it does
 
@@ -80,9 +80,10 @@ Mock / future BCI adapter
 
 - `LISTING.md` — human re-seed copy
 - `neurabeach-manifest.json` — machine source
-- Planned first host (update after deploy): `https://clarityforge.vercel.app`
+- Live demo: [https://clarityforge-gamma.vercel.app/demo](https://clarityforge-gamma.vercel.app/demo)
+- Dashboard: [https://clarityforge-gamma.vercel.app](https://clarityforge-gamma.vercel.app)
 
-Do not seed NeuraBeach until a live URL is confirmed.
+Re-seed NeuraBeach from `LISTING.md` + `neurabeach-manifest.json` when the host or version changes.
 
 ## License
 
