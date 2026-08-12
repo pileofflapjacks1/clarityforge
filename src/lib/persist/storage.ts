@@ -152,7 +152,9 @@ export function normalizePersisted(raw: unknown): PersistedSession | null {
       ...(settingsIn as Partial<Settings>),
       thresholds: {
         ...DEFAULT_SETTINGS.thresholds,
-        ...((isRecord(settingsIn.thresholds) ? settingsIn.thresholds : {}) as Settings["thresholds"]),
+        ...(isRecord(settingsIn.thresholds)
+          ? (settingsIn.thresholds as unknown as Partial<Settings["thresholds"]>)
+          : {}),
       },
       enabledSymbols: enabled.length ? enabled : DEFAULT_SETTINGS.enabledSymbols,
     },
