@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0d10"/>
+  <rect x="48" y="48" width="1104" height="534" rx="24" fill="#13171d" stroke="#2a3140"/>
+  <text x="88" y="160" fill="#c4a574" font-family="ui-sans-serif, system-ui" font-size="28" letter-spacing="6">NEURA SUITE</text>
+  <text x="88" y="250" fill="#e8e4dc" font-family="ui-sans-serif, system-ui" font-size="72" font-weight="600">ClarityForge</text>
+  <text x="88" y="320" fill="#8f938c" font-family="ui-sans-serif, system-ui" font-size="28">Cognitive hygiene for paper trading</text>
+  <text x="88" y="420" fill="#8ba3b8" font-family="ui-sans-serif, system-ui" font-size="22">Simulator-first · Not a medical device · Not a brokerage</text>
+  <rect x="88" y="470" width="180" height="40" rx="20" fill="#1a2028" stroke="#2a3140"/>
+  <text x="178" y="496" text-anchor="middle" fill="#c4a574" font-family="ui-sans-serif, system-ui" font-size="14" letter-spacing="2">SIMULATOR MODE</text>
+</svg>

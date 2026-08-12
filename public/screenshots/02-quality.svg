@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <rect width="1440" height="900" fill="#0b0d10"/>
+  <rect y="104" width="1440" height="52" fill="#3a1c1c"/>
+  <text x="40" y="136" fill="#f0b4b4" font-family="ui-sans-serif" font-size="16">Hard Freeze is on. Order intent is disabled until you release it.</text>
+  <rect x="120" y="220" width="520" height="460" rx="20" fill="#13171d" stroke="#2a3140"/>
+  <text x="160" y="280" fill="#8f938c" font-size="14">DECISION QUALITY</text>
+  <text x="160" y="370" fill="#c45c5c" font-size="64" font-weight="600">Frozen</text>
+  <text x="160" y="430" fill="#8f938c" font-size="18">score 41.2 · Caution underneath</text>
+  <text x="160" y="500" fill="#e8e4dc" font-size="18">Fatigue is elevated. Extra confirmation is on.</text>
+  <rect x="800" y="220" width="520" height="460" rx="20" fill="#13171d" stroke="#2a3140"/>
+  <text x="840" y="280" fill="#e8e4dc" font-size="22">State injector</text>
+  <rect x="840" y="320" width="120" height="36" rx="8" fill="#1a2028" stroke="#2a3140"/>
+  <rect x="976" y="320" width="120" height="36" rx="8" fill="#3a1c1c" stroke="#c45c5c"/>
+  <text x="1036" y="344" text-anchor="middle" fill="#fecaca" font-size="14">Fatigue</text>
+  <rect x="1112" y="320" width="120" height="36" rx="8" fill="#1a2028" stroke="#2a3140"/>
+</svg>

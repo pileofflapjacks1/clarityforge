@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <rect width="1440" height="900" fill="#0b0d10"/>
+  <text x="80" y="120" fill="#e8e4dc" font-size="40" font-weight="600" font-family="ui-sans-serif">Guided demo</text>
+  <rect x="80" y="180" width="620" height="520" rx="20" fill="#13171d" stroke="#2a3140"/>
+  <text x="120" y="240" fill="#e8e4dc" font-size="24">Step 2 / 6: Inject fatigue</text>
+  <text x="120" y="300" fill="#8f938c" font-size="18">Fatigue rises, quality usually drops to Low,</text>
+  <text x="120" y="330" fill="#8f938c" font-size="18">and any order would ask for extra confirmation.</text>
+  <rect x="740" y="180" width="620" height="240" rx="20" fill="#13171d" stroke="#2a3140"/>
+  <text x="780" y="250" fill="#c47a5a" font-size="48">Low</text>
+  <text x="780" y="300" fill="#8f938c" font-size="16">score 44.0</text>
+</svg>

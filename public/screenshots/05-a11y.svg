@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <rect width="1440" height="900" fill="#0b0d10"/>
+  <text x="80" y="110" fill="#e8e4dc" font-size="36" font-weight="600">Accessibility</text>
+  <rect x="80" y="160" width="1280" height="560" rx="20" fill="#13171d" stroke="#2a3140"/>
+  <text x="120" y="220" fill="#e8e4dc" font-size="22">Scorecard (MVP)</text>
+  <text x="120" y="280" fill="#8f938c" font-size="18">• Visible focus rings</text>
+  <text x="120" y="320" fill="#8f938c" font-size="18">• Hard Freeze: F and Esc</text>
+  <text x="120" y="360" fill="#8f938c" font-size="18">• Skip link to main content</text>
+  <text x="120" y="400" fill="#8f938c" font-size="18">• Meters expose valuetext</text>
+  <text x="120" y="440" fill="#8f938c" font-size="18">• Reduced-motion respected</text>
+</svg>

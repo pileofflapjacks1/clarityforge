@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <rect width="1440" height="900" fill="#0b0d10"/>
+  <text x="80" y="110" fill="#e8e4dc" font-size="36" font-weight="600">Settings</text>
+  <rect x="80" y="160" width="1280" height="200" rx="20" fill="#13171d" stroke="#2a3140"/>
+  <text x="120" y="220" fill="#e8e4dc" font-size="22">Cognitive thresholds</text>
+  <text x="120" y="270" fill="#8f938c" font-size="16">Fatigue high</text>
+  <rect x="120" y="290" width="900" height="8" rx="4" fill="#1a2028"/>
+  <rect x="120" y="290" width="630" height="8" rx="4" fill="#c4a574"/>
+  <rect x="80" y="390" width="1280" height="200" rx="20" fill="#13171d" stroke="#2a3140"/>
+  <text x="120" y="450" fill="#e8e4dc" font-size="22">Privacy &amp; data</text>
+  <rect x="120" y="490" width="180" height="44" rx="10" fill="#1a2028" stroke="#2a3140"/>
+  <text x="210" y="518" text-anchor="middle" fill="#e8e4dc" font-size="14">Export session</text>
+  <rect x="320" y="490" width="180" height="44" rx="10" fill="#3a1c1c" stroke="#c45c5c"/>
+  <text x="410" y="518" text-anchor="middle" fill="#fecaca" font-size="14">Reset all data</text>
+</svg>
