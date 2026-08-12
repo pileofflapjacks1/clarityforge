@@ -22,8 +22,6 @@
 
 ## Later
 
-## Later
-
 - [ ] Optional NeuralBridge BroadcastChannel soft-link
 - [ ] Richer outcome horizon than 30s mark-to-market
 - [ ] No live brokerage unless explicitly requested
